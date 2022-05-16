@@ -1,6 +1,6 @@
 {
 	"name": "@qianzwtest/utils",
-	"version": "0.0.0",
+	"version": "0.0.1",
 	"description": "> TODO: description",
 	"author": "钱忠旺 <1870271825@qq.com>",
 	"homepage": "",
@@ -15,7 +15,5 @@
 	],
 	"publishConfig": {
 		"access": "public"
-	},
-	"dependencies": {
 	}
 }
