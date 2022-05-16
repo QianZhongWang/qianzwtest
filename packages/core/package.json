@@ -5,6 +5,9 @@
 	"author": "钱忠旺 <1870271825@qq.com>",
 	"homepage": "",
 	"license": "ISC",
+	"bin": {
+		"qianzwtest-cli": "bin/index.js"
+	},
 	"main": "lib/core.js",
 	"directories": {
 		"lib": "lib",
@@ -15,5 +18,8 @@
 	],
 	"publishConfig": {
 		"access": "public"
+	},
+	"dependencies": {
+		"@qianzwtest/utils": "^0.0.1"
 	}
 }
